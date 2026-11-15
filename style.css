@@ -43,6 +43,8 @@ section.alt{background:#fff;border-top:1px solid var(--line);border-bottom:1px s
 .card ul li{margin-bottom:4px}
 .split{display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:center}
 .media{border:1px solid var(--line);background:#fff}
+.map{margin-top:24px;border:1px solid var(--line);background:#fff;overflow:hidden}
+.map iframe{display:block;width:100%;height:300px;border:0}
 .quote{background:#fff;border:1px solid var(--line);padding:26px}
 .quote p{font-family:Georgia,serif;font-size:17px;margin:0 0 14px}
 .quote .who{font-size:13px;color:var(--muted);letter-spacing:.04em}
